@@ -762,9 +762,6 @@ section{
     background: var(--color);
 }
 
-.contact .row .map{
-    flex: 1 1 40rem;
-}
 
 /* end */
 
